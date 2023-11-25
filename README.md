@@ -8,3 +8,4 @@ change on GITHUB
 confrict remote branch
 rebase-practiceブランチで更新（コンフリクト発生）
 rebase用
+stash練習

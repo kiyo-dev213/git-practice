@@ -6,4 +6,4 @@ chanege no-fast-forward
 change conflict branch
 change on GITHUB
 confrict remote branch
-mainブランチで更新（コンフリクト発生）
+rebase-practiceブランチで更新（コンフリクト発生）

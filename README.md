@@ -6,3 +6,4 @@ chanege no-fast-forward
 change conflict branch
 change on GITHUB
 confrict remote branch
+自分のレポジトリで更新

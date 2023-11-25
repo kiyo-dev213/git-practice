@@ -6,3 +6,4 @@ chanege no-fast-forward
 change conflict branch
 change on GITHUB
 confrict remote branch
+rebase-practiceブランチで更新
